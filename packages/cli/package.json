@@ -8,10 +8,7 @@
     "url": "https://github.com/mxn2020/minions-bundles-ideation"
   },
   "homepage": "https://docs.minions.wtf",
-  "keywords": {
-    {keywordsJson
-    }
-  },
+  "keywords": [],
   "author": "Mehdi Nabhani <mehdi@the-mehdi.com> (https://the-mehdi.com)",
   "type": "module",
   "bin": {
