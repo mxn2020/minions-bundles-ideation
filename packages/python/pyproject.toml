@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "minions-bundles-ideation"
-version = "0.1.0"
+version = "0.2.0"
 description = "Brainstorming and early-stage planning bundle — ideas, feature specs, roadmaps"
 readme = "README.md"
 license = { text = "MIT" }
