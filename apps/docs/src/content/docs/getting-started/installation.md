@@ -6,7 +6,7 @@ description: "Install Minions Bundle: Ideation packages"
 ## TypeScript / Node.js
 
 ```bash
-npm install @mxn2020/minions-bundles-ideation-sdk minions-sdk
+npm install @minions-bundles-ideation/sdk minions-sdk
 ```
 
 ## Python
@@ -18,7 +18,7 @@ pip install minions-bundles-ideation
 ## CLI
 
 ```bash
-npm install -g @mxn2020/minions-bundles-ideation-cli
+npm install -g @minions-bundles-ideation/cli
 ```
 
 ## Requirements

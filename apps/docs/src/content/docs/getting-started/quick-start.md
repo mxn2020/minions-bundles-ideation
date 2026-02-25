@@ -6,7 +6,7 @@ description: "Get up and running with Minions Bundle: Ideation in minutes"
 ## TypeScript
 
 ```typescript
-import { createClient } from '@mxn2020/minions-bundles-ideation-sdk';
+import { createClient } from '@minions-bundles-ideation/sdk';
 
 const client = createClient();
 console.log('Version:', client.version);

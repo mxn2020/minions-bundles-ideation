@@ -10,9 +10,9 @@ We're excited to introduce **Minions Bundle: Ideation** — Brainstorming and ea
 
 ## What's Included
 
-- **TypeScript SDK**: `npm install @mxn2020/minions-bundles-ideation-sdk`
+- **TypeScript SDK**: `npm install @minions-bundles-ideation/sdk`
 - **Python SDK**: `pip install minions-bundles-ideation`
-- **CLI**: `npm install -g @mxn2020/minions-bundles-ideation-cli`
+- **CLI**: `npm install -g @minions-bundles-ideation/cli`
 
 ## Getting Started
 
