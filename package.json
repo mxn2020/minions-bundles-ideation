@@ -1,7 +1,7 @@
 {
     "name": "minions-bundles-ideation-workspace",
     "private": true,
-    "version": "0.1.2",
+    "version": "0.1.0",
     "description": "Brainstorming and early-stage planning bundle — ideas, feature specs, roadmaps",
     "type": "module",
     "license": "MIT",
@@ -11,12 +11,12 @@
         "apps/*"
     ],
     "scripts": {
-        "build": "pnpm --filter @mxn2020/minions-bundles-ideation-sdk run build && pnpm --filter @mxn2020/minions-bundles-ideation-cli run build && pnpm --filter minions-bundles-ideation-docs run build && pnpm --filter minions-bundles-ideation-blog run build && pnpm --filter minions-bundles-ideation-web run build",
+        "build": "pnpm --filter @minions-bundles-ideation/sdk run build && pnpm --filter @minions-bundles-ideation/cli run build && pnpm --filter minions-bundles-ideation-docs run build && pnpm --filter minions-bundles-ideation-blog run build && pnpm --filter minions-bundles-ideation-web run build",
         "deploy:blog": "pnpm --filter minions-bundles-ideation-blog run build && netlify deploy --dir apps/blog/dist --prod",
         "deploy:docs": "pnpm --filter minions-bundles-ideation-docs run build && netlify deploy --dir apps/docs/dist --prod",
         "deploy:web": "pnpm --filter minions-bundles-ideation-web run build && netlify deploy --dir apps/web/dist --prod",
-        "test": "pnpm --filter @mxn2020/minions-bundles-ideation-sdk run test",
-        "lint": "pnpm --filter @mxn2020/minions-bundles-ideation-sdk run build && pnpm --filter @mxn2020/minions-bundles-ideation-sdk run lint && pnpm --filter @mxn2020/minions-bundles-ideation-cli run lint",
+        "test": "pnpm --filter @minions-bundles-ideation/sdk run test",
+        "lint": "pnpm --filter @minions-bundles-ideation/sdk run build && pnpm --filter @minions-bundles-ideation/sdk run lint && pnpm --filter @minions-bundles-ideation/cli run lint",
         "deploy": "pnpm run deploy:blog"
     },
     "engines": {

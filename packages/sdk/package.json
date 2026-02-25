@@ -1,5 +1,5 @@
 {
-  "name": "@mxn2020/minions-bundles-ideation-sdk",
+  "name": "@minions-bundles-ideation/sdk",
   "version": "0.1.0",
   "description": "Brainstorming and early-stage planning bundle — ideas, feature specs, roadmaps",
   "type": "module",
