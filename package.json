@@ -1,7 +1,7 @@
 {
     "name": "minions-bundles-ideation-workspace",
     "private": true,
-    "version": "0.1.1",
+    "version": "0.1.3",
     "description": "Brainstorming and early-stage planning bundle — ideas, feature specs, roadmaps",
     "type": "module",
     "license": "MIT",
