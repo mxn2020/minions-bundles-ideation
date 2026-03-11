@@ -1,0 +1,8 @@
+name: "@minions-bundles-ideation/sdk"
+project_scope: child
+child_type: sdk
+parent_project: minions-bundles-ideation-workspace
+description: "Brainstorming and early-stage planning bundle — ideas, feature specs, roadmaps"
+priority: high
+deploy_url: null
+tags: null

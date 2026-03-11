@@ -1,0 +1,8 @@
+name: minions-bundles-ideation-web
+project_scope: child
+child_type: web-app
+parent_project: minions-bundles-ideation-workspace
+description: Standard compliance definition for minions-bundles-ideation-web
+priority: high
+deploy_url: null
+tags: null

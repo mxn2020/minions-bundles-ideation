@@ -1,0 +1,8 @@
+name: "@minions-bundles-ideation/cli"
+project_scope: child
+child_type: cli
+parent_project: minions-bundles-ideation-workspace
+description: "CLI for minions-bundles-ideation — Brainstorming and early-stage planning bundle — ideas, feature specs, roadmaps"
+priority: high
+deploy_url: null
+tags: null

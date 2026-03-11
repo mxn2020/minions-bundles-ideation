@@ -1,0 +1,8 @@
+name: minions-bundles-ideation-docs
+project_scope: child
+child_type: docs
+parent_project: minions-bundles-ideation-workspace
+description: Standard compliance definition for minions-bundles-ideation-docs
+priority: high
+deploy_url: null
+tags: null

@@ -1,0 +1,1 @@
+# minions-bundles-ideation-docs\n\nStandard compliance definition for minions-bundles-ideation-docs\n\n![CI](https://github.com/mxn2020/minions-bundles-ideation-docs/actions/workflows/ci.yml/badge.svg) ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)\n
